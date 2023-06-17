@@ -10,7 +10,17 @@ export default function App() {
         <main>
           <Dictionary />
         </main>
-        <footer>This app was coded by Kat Haas and is open-sourced.</footer>
+        <footer>
+          This app was coded by Kat Haas and is{" "}
+          <a
+            href="https://github.com/haka1013/dictionary-app"
+            rel="noreferrer"
+            target="blank"
+          >
+            open-sourced
+          </a>
+          .
+        </footer>
       </div>
     </div>
   );

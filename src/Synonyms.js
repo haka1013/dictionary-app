@@ -3,7 +3,7 @@ import React from "react";
 export default function Synonyms(props) {
   if (props.synonyms) {
     return (
-      <div className="syonyms">
+      <div className="Synonyms">
         Synonyms:
         <ul>
           {props.synonyms.map(function (synonym, index) {

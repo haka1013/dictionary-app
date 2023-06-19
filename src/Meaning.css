@@ -1,0 +1,8 @@
+.Meaning h4 {
+  font-weight: bolder;
+}
+
+.Meaning section .type {
+  font-weight: bolder;
+  color: grey;
+}

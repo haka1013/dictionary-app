@@ -5,3 +5,13 @@
   padding: 20px;
   margin: 20px;
 }
+
+.Results h2 {
+  font-size: 35px;
+  font-weight: bolder;
+}
+
+.Results h3 {
+  font-size: 23px;
+  color: grey;
+}

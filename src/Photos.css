@@ -1,0 +1,11 @@
+.Photos section {
+  background-color: #ded4e8;
+  border-radius: 6px;
+  box-shadow: 2px 2px 5px rgb(184, 184, 184);
+  padding: 20px;
+  margin: 20px;
+}
+
+.Photos img {
+  margin-bottom: 5px;
+}

@@ -2,7 +2,24 @@
   font-weight: bolder;
 }
 
-.Meaning section .type {
-  font-weight: bolder;
+.Meaning .definition:first-letter {
+  text-transform: capitalize;
+}
+
+.Meaning .example {
+  font-style: italic;
   color: grey;
+  margin-top: 5px;
+}
+
+.Meaning .example:first-letter {
+  text-transform: capitalize;
+}
+
+.Meaning .synonyms {
+  margin-top: 1em;
+}
+
+.Meaning .antonyms {
+  margin-top: 1em;
 }

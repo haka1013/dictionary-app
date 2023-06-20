@@ -36,6 +36,7 @@ export default function Dictionary() {
               type="search"
               placeholder="try words like: surf, yoga, wine, love"
               onChange={handleKeywordChange}
+              defaultValue={"magic"}
             />
           </form>
         </section>

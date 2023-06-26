@@ -9,7 +9,7 @@
 .App h1 {
   text-align: center;
   font-size: 50px;
-  color: #e8ba40;
+  color: #ffd44d;
   text-shadow: -1px 1px 0 #000, 1px 1px 0 #000, 1px -1px 0 #000,
     -1px -1px 0 #000;
   font-family: "Aoboshi One", serif;
@@ -28,4 +28,11 @@
 .App a {
   text-decoration: none;
   color: #c7395f;
+}
+
+.App header img {
+  max-width: 150px;
+  display: block;
+  margin: 0 auto;
+  margin-top: -20px;
 }
